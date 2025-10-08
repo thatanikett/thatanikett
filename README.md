@@ -8,8 +8,13 @@
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express&perline=6" />
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,python,html,css,tailwind&perline=6" />
-<img src="https://skillicons.dev/icons?i=git,github,linux,aws,vscode,postman&perline=6" />
+<p align="center">
+  <img src="https://readmecodegen.com/api/social-icon?name=javascript&animation=spin" width="80" height="80" />
+  <img src="https://readmecodegen.com/api/social-icon?name=typescript&animation=pulse" width="80" height="80" />
+  <img src="https://readmecodegen.com/api/social-icon?name=react&animation=glow" width="80" height="80" />
+  <img src="https://readmecodegen.com/api/social-icon?name=nodejs&animation=bounce" width="80" height="80" />
+  <img src="https://readmecodegen.com/api/social-icon?name=mongodb&animation=heartbeat" width="80" height="80" />
+  <img src="https://readmecodegen.com/api/social-icon?name=nextjs&animation=fade" width="80" height="80" />
+</p>
 
 </div>
