@@ -4,6 +4,6 @@
 
 **[Portfolio](https://thatanikett.vercel.app/)**
 
-<img src="/Pixeled-Icons/pixeledReact.gif">
+<img src="/Pixeled-Icons/pixeledReact.gif" width="50">
 
 </div>
