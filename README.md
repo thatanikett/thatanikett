@@ -1,9 +1,8 @@
 <div align="center">
 
-# Hi !!,  I'm Aniket <img src="/Pixeled-Icons/rollingcat.gif" width="50" alt="Waving hand"/>
+# Hi , I'm Aniket <img src="/Pixeled-Icons/rollingcat.gif" width="50" alt="Waving hand"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=One+bug+at+a+time+.." alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000000&color=00FF00&center=true&vCenter=true&repeat=false&width=435&lines=One+bug+at+a+time+.." alt="Typing SVG" />
 
 <p align="center">
   <img src="/Pixeled-Icons/pixelVscode.gif" style="width: 120px; max-width: 15vw; min-width: 60px;" alt="VS Code"/>
@@ -14,7 +13,7 @@
   <img src="/Pixeled-Icons/pixelPython.gif" style="width: 100px; max-width: 12vw; min-width: 50px;" alt="Python"/>
 </p>
 
----
+##
 
 <img align="right" width="150" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Coding gif"/>
 
@@ -38,11 +37,10 @@
 <a href="https://www.leetcode.com/yourprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 </p>
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" alt="Pixel gif"/>
+<br> 
 
----
-
-## 💻 Tech Stack:
+## 💻Tech Stack:
+<img align="right" width="120" src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" alt="run"/>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -61,19 +59,14 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-
-<p>
-  <a href="https://thatanikett.vercel.app/" target="_blank">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif" width="400" alt="Portfolio"/>
-  </a>
-</p>
-
-<h3>
-  <a href="https://thatanikett.vercel.app/" target="_blank">Portfolio</a>
-</h3>
-
----
+##
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile views" />
+  <a href="https://thatanikett.vercel.app/" target="_blank">
+    <img src="Pixeled-Icons/night.gif" width="600" alt="Portfolio" style="max-width: 90%; height: auto;"/>
+  </a>
+ </p>
+<p align="center">
+  <a href="https://thatanikett.vercel.app/" target="_blank">Portfolio</a>
 </p>
+
