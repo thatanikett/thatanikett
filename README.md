@@ -13,7 +13,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="/Pixeled-Icons/pixelJS.gif" style="width: 100px; max-width: 12vw; min-width: 50px;" alt="JavaScript"/>
   </a>
-  <a href="https://nodejs.org/docs" target="_blank">
+  <a href="https://nodejs.org/docs/latest/api/" target="_blank">
     <img src="/Pixeled-Icons/pixelnode.gif" style="width: 100px; max-width: 12vw; min-width: 50px;" alt="Node.js"/>
   </a>
   <a href="https://react.dev/learn" target="_blank">
@@ -35,7 +35,7 @@
 
 - <i>currently honing my web dev.</i>
 
-- <i>Reach me at: **[aniketsinghme13@gmail.com](mailto:aniketsinghme13@gmail.com)**</i>
+- <i>Reach me at: **[aniketsingh4269@gmail.com](mailto:aniketsingh4269@gmail.com)**</i>
 
 - <i>Curious about various different stuffs.</i>
 
@@ -48,14 +48,14 @@
 ## Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://x.com/anikett78" target="_blank"><img align="center" src="https://cdn.simpleicons.org/x/ffffff" alt="X (Twitter)" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/aniket-singh-8835b5319/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yourprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 </p>
 
 <br> 
 
-## 💻Tech Stack:
+## Tech Stack:
 <img align="right" width="120" src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" alt="run"/>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
