@@ -1,27 +1,43 @@
 <div align="center">
 
-# Hi , I'm Aniket <img src="/Pixeled-Icons/rollingcat.gif" width="50" alt="Waving hand"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=1&pause=999999&color=F7F7F7&center=true&vCenter=true&width=450&lines=Hi,+I'm+Aniket" width="450" alt="Hi, I'm Aniket" /><img src="/Pixeled-Icons/rollingcat.gif" width="50" alt="Waving hand"/>
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000000&color=00FF00&center=true&vCenter=true&repeat=false&width=435&lines=One+bug+at+a+time+.." alt="Typing SVG" />
 
 <p align="center">
-  <img src="/Pixeled-Icons/pixelVscode.gif" style="width: 120px; max-width: 15vw; min-width: 60px;" alt="VS Code"/>
-  <img src="/Pixeled-Icons/pixelJS.gif" style="width: 100px; max-width: 12vw; min-width: 50px;" alt="JavaScript"/>
-  <img src="/Pixeled-Icons/pixelnode.gif" style="width: 100px; max-width: 12vw; min-width: 50px;" alt="Node.js"/>
-  <img src="/Pixeled-Icons/pixeledReact.gif" style="width: 100px; max-width: 12vw; min-width: 50px;" alt="React"/>
-  <img src="/Pixeled-Icons/pixelGit.gif" style="width: 150px; max-width: 18vw; min-width: 80px;" alt="Git"/>
-  <img src="/Pixeled-Icons/pixelPython.gif" style="width: 100px; max-width: 12vw; min-width: 50px;" alt="Python"/>
+  <a href="https://code.visualstudio.com/docs" target="_blank">
+    <img src="/Pixeled-Icons/pixelVscode.gif" style="width: 120px; max-width: 15vw; min-width: 60px;" alt="VS Code"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="/Pixeled-Icons/pixelJS.gif" style="width: 100px; max-width: 12vw; min-width: 50px;" alt="JavaScript"/>
+  </a>
+  <a href="https://nodejs.org/docs" target="_blank">
+    <img src="/Pixeled-Icons/pixelnode.gif" style="width: 100px; max-width: 12vw; min-width: 50px;" alt="Node.js"/>
+  </a>
+  <a href="https://react.dev/learn" target="_blank">
+    <img src="/Pixeled-Icons/pixeledReact.gif" style="width: 100px; max-width: 12vw; min-width: 50px;" alt="React"/>
+  </a>
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="/Pixeled-Icons/pixelGit.gif" style="width: 150px; max-width: 18vw; min-width: 80px;" alt="Git"/>
+  </a>
+  <a href="https://docs.python.org/" target="_blank">
+    <img src="/Pixeled-Icons/pixelPython.gif" style="width: 100px; max-width: 12vw; min-width: 50px;" alt="Python"/>
+  </a>
 </p>
 
 ##
 
-<img align="right" width="150" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Coding gif"/>
-
+<img align="right" width="180" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Coding gif"/>
 <div align="left">
 
-- currently honing my web dev.
-- How to reach me **[aniketsinghme13@gmail.com](mailto:aniketsinghme13@gmail.com)**
-- Curious about various different stuffs.
+
+- <i>currently honing my web dev.</i>
+
+- <i>Reach me at: **[aniketsinghme13@gmail.com](mailto:aniketsinghme13@gmail.com)**</i>
+
+- <i>Curious about various different stuffs.</i>
 
 </div>
 
