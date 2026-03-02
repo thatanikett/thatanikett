@@ -73,11 +73,9 @@
 ##
 
 <p align="center">
-  <a href="https://thatanikett.vercel.app/" target="_blank">
+  <a>
     <img src="Pixeled-Icons/night.gif" width="600" alt="Portfolio" style="max-width: 90%; height: auto;"/>
   </a>
  </p>
-<p align="center">
-  <a href="https://thatanikett.vercel.app/" target="_blank">Portfolio</a>
-</p>
+
 
