@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=1&pause=999999&color=F7F7F7&center=true&vCenter=true&width=450&lines=Hi,+I'm+Aniket" width="450" alt="Hi, I'm Aniket" /><img src="/Pixeled-Icons/rollingcat.gif" width="50" alt="Waving hand"/>
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000000&color=00FF00&center=true&vCenter=true&repeat=false&width=435&lines=One+bug+at+a+time+.." alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=F7F7F7&center=true&vCenter=true&width=700&lines=Cloud(AWS)+|+Python+|+DevOps+|+FullStack" alt="Headline" />
+</div>
 
 <p align="center">
   <a href="https://code.visualstudio.com/docs" target="_blank">
@@ -53,22 +55,23 @@
 <br> 
 
 ## Tools I use:
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="50" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="NodeJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="filter: invert(1) brightness(2);" width="60" height="50" alt="Express" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" style="filter: invert(1) brightness(2);" width="60" height="50" alt="NextJS" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="Postgres" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="50" height="50" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50" height="50" alt="Vite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" height="50" alt="Canva" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" width="50" height="50" />
 </p>
 
 ##
