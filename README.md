@@ -1,85 +1,36 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=1&pause=999999&color=F7F7F7&center=true&vCenter=true&width=450&lines=Hi,+I'm+Aniket" width="450" alt="Hi, I'm Aniket" />
+  <img src="/Pixeled-Icons/rollingcat.gif" width="50" alt="Waving hand"/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=1&pause=999999&color=F7F7F7&center=true&vCenter=true&width=450&lines=Hi,+I'm+Aniket" width="450" alt="Hi, I'm Aniket" /><img src="/Pixeled-Icons/rollingcat.gif" width="50" alt="Waving hand"/>
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=F7F7F7&center=true&vCenter=true&width=700&lines=Cloud(AWS)+|+Python+|+DevOps+|+FullStack" alt="Headline" />
+
+  <p>
+    <a href="https://code.visualstudio.com/docs"><img src="/Pixeled-Icons/pixelVscode.gif" width="70" /></a>&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="/Pixeled-Icons/pixelJS.gif" width="60" /></a>&nbsp;
+    <a href="https://nodejs.org/docs/latest/api/"><img src="/Pixeled-Icons/pixelnode.gif" width="60" /></a>&nbsp;
+    <a href="https://react.dev/learn"><img src="/Pixeled-Icons/pixeledReact.gif" width="60" /></a>&nbsp;
+    <a href="https://git-scm.com/doc"><img src="/Pixeled-Icons/pixelGit.gif" width="90" /></a>&nbsp;
+    <a href="https://docs.python.org/"><img src="/Pixeled-Icons/pixelPython.gif" width="60" /></a>
+  </p>
 </div>
 
-<p align="center">
-  <a href="https://code.visualstudio.com/docs" target="_blank">
-    <img src="/Pixeled-Icons/pixelVscode.gif" style="width: 120px; max-width: 15vw; min-width: 60px;" alt="VS Code"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="/Pixeled-Icons/pixelJS.gif" style="width: 100px; max-width: 12vw; min-width: 50px;" alt="JavaScript"/>
-  </a>
-  <a href="https://nodejs.org/docs/latest/api/" target="_blank">
-    <img src="/Pixeled-Icons/pixelnode.gif" style="width: 100px; max-width: 12vw; min-width: 50px;" alt="Node.js"/>
-  </a>
-  <a href="https://react.dev/learn" target="_blank">
-    <img src="/Pixeled-Icons/pixeledReact.gif" style="width: 100px; max-width: 12vw; min-width: 50px;" alt="React"/>
-  </a>
-  <a href="https://git-scm.com/doc" target="_blank">
-    <img src="/Pixeled-Icons/pixelGit.gif" style="width: 150px; max-width: 18vw; min-width: 80px;" alt="Git"/>
-  </a>
-  <a href="https://docs.python.org/" target="_blank">
-    <img src="/Pixeled-Icons/pixelPython.gif" style="width: 100px; max-width: 12vw; min-width: 50px;" alt="Python"/>
-  </a>
-</p>
+---
 
-##
+### 
+- Reach me at: **[aniketsingh4269@gmail.com](mailto:aniketsingh4269@gmail.com)**
+- Curious about many different stuffs
 
-<div align="left">
+---
 
-
-- <i>Reach me at: **[aniketsingh4269@gmail.com](mailto:aniketsingh4269@gmail.com)**</i>
-
-- <i>Curious about various different stuffs.</i>
-
-</div>
-
-<!-- <br clear="right"/> -->
-</div>
-
-
-## Connect with me:
-
+### Tools I use
 <p align="left">
-<a href="https://x.com/anikett78" target="_blank"><img align="center" src="https://cdn.simpleicons.org/x/ffffff" alt="X (Twitter)" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/aniket-singh-8835b5319/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yourprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=py,aws,terraform,docker,js,nodejs,react,express,nextjs,mongodb,postgres,tailwind,github,vite,vercel,linux&perline=8" />
 </p>
 
-<br> 
+---
 
-## Tools I use:
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="NodeJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="Postgres" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="50" height="50" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50" height="50" alt="Vite" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" width="50" height="50" />
+### Connect with me
+<p align="left">
+  <a href="https://x.com/anikett78"><img src="https://cdn.simpleicons.org/x/ffffff" height="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aniket-singh-8835b5319/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-##
-
-<p align="center">
-  <a>
-    <img src="Pixeled-Icons/night.gif" width="600" alt="Portfolio" style="max-width: 90%; height: auto;"/>
-  </a>
- </p>
-
-
