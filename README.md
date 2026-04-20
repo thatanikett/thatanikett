@@ -14,20 +14,20 @@
   </p>
 </div>
 
----
+##
 
 ### 
 - Reach me at: **[aniketsingh4269@gmail.com](mailto:aniketsingh4269@gmail.com)**
 - Curious about many different stuffs
 
----
+##
 
 ### Tools I use
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,aws,terraform,docker,js,nodejs,react,express,nextjs,mongodb,postgres,tailwind,github,vite,vercel,linux&perline=8" />
 </p>
 
----
+##
 
 ### Connect with me
 <p align="left">
